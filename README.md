@@ -25,12 +25,12 @@ Uusi helpommin muokattava kurssiformaatti kisällioppininen.fi sivustolle, mahdo
 [Lista projektin kehittäjistä](https://github.com/orgs/Matikkaprojekti/people)
 
 
-### Lisenssi [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-[The MIT lisence](https://opensource.org/licenses/MIT)
+### Lisenssi [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)]
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ### Kehityskäytännöt
 [Branching käytännöt](https://nvie.com/posts/a-successful-git-branching-model/)
 
 #### Definition of Done
-- Koodin on laadukasta, konfiguroidun TypeScript-lintterin mukaista, feature on katselmoitu ja testattu.
+- Koodin on laadukasta, konfiguroidun TypeScript-lintterin mukaista
+- Feature on katselmoitu ja testattu.
