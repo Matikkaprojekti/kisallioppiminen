@@ -25,8 +25,7 @@ Uusi helpommin muokattava kurssiformaatti kisällioppininen.fi sivustolle, mahdo
 [Lista projektin kehittäjistä](https://github.com/orgs/Matikkaprojekti/people)
 
 
-### Lisenssi ![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)
-[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+### Lisenssi [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ### Kehityskäytännöt
 [Branching käytännöt](https://nvie.com/posts/a-successful-git-branching-model/)
