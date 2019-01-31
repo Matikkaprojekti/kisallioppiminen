@@ -31,5 +31,6 @@ Uusi helpommin muokattava kurssiformaatti kisällioppininen.fi sivustolle, mahdo
 [Branching käytännöt](https://nvie.com/posts/a-successful-git-branching-model/)
 
 #### Definition of Done
-- Koodin on laadukasta, konfiguroidun TypeScript-lintterin mukaista
-- Feature on katselmoitu ja testattu.
+- Koodin on laadukasta, konfiguroidun TypeScript-lintterin mukaista.
+- Feature on katselmoitu ja testattu vähintään manuaalisesti.
+- Featuresta on luotu pullrequest ja mergattu se on masteriin.
