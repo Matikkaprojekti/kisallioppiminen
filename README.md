@@ -28,7 +28,12 @@ Uusi helpommin muokattava kurssiformaatti kisällioppininen.fi sivustolle, mahdo
 ### Lisenssi [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ### Kehityskäytännöt
-[Branching käytännöt](https://nvie.com/posts/a-successful-git-branching-model/)
+#### Branching käytännöt
+- Luodaan mahdollisimman pieniä feature-branchejä
+- Branchin nimen tulee noudattaa formaattia `feature/toteutettavanFeaturenNimi`
+- Kun kyseinen feature on valmis, tehdään pull-request **Masteriin**
+- Kuka tahansa ryhmän jäsen voi katselmoida ja hyväkyä pull-requestin.
+- Pyritään hoitamaan pull-requestit ASAP.
 
 #### Definition of Done
 - Koodin on laadukasta, konfiguroidun TypeScript-lintterin mukaista.
