@@ -8,7 +8,7 @@
 
 
 ### Kuvaus
-Uusi helpommin muokattava kurssiformaatti kisällioppininen.fi sivustolle, mahdollistaen helpomman kurssien muokkaukset ja lisäykset.
+Uusi helpommin muokattava kurssiformaatti kisallioppiminen.fi sivustolle, mahdollistaen helpomman kurssien muokkaukset ja lisäykset.
 
 ### Asennusohjeet
 - Frontend
